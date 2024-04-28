@@ -42,5 +42,5 @@ The project was developed as part of the credit for postgraduate studies in the 
 ### Acknowledgements
 
 - The online store **[Balticlovers.pl](balticlovers.pl)**
-- The whole team at Flowrite; for support and cheering in this development journey
+- The whole team at **Flowrite**; for support and cheering in this development journey
 - For **[Shuvro](https://github.com/shuvro)**; for encouraging me to develop my skills first and for planting that seed of eagerness to learn! 
