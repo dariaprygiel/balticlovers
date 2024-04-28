@@ -17,28 +17,6 @@ The project was developed as part of the credit for postgraduate studies in the 
 * Registering a new user (#009 - #012)
 * Placing an order (#013 - #015)
 
-### Setup
-
-1. **Clone the repository:**
-
-    ```bash
-    git clone 
-    ```
-
-2. **Download and install the appropriate webdriver:**
-
-    Depending on the browser you want to automate, download the appropriate webdriver and add it to your system's PATH.
-
-### Usage
-
-1. **Run the test cases:**
-
-    ```bash
-    python balticlovers_suite_test.py
-    ```
-
-   This will execute all the test cases and provide the test results.
-
 ### Acknowledgements
 
 - The online store **[Balticlovers.pl](balticlovers.pl)**
